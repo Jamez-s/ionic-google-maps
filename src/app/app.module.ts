@@ -34,7 +34,14 @@ import { GoogleMaps } from '@ionic-native/google-maps';
     MapsProvider,
     JsMapsProvider,
     NativeMapsProvider,
-    GoogleMaps
+    GoogleMaps,
+    JsMapsProvider,
+    NativeMapsProvider,
+    MapsProvider,
+    MapsProvider,
+    JsMapsProvider,
+    NativeMapsProvider
+
   ]
 })
 export class AppModule {}
